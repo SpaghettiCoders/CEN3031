@@ -1,1 +1,2 @@
-Conflict with this
+Conflict with this if you want
+or this line if you want something different 
